@@ -74,10 +74,8 @@ project-folder/
 ├── frontend/
 │   ├── angular.json
 │   ├── src/
-│   │   ├── app/
-│   │   │   ├── app.component.ts
-│   │   │   ├── app.component.html
-│   │   │   ├── data.service.ts
+│   │   ├── index.html
+│   │   ├── main.ts
 │   │   ├── global_styles.css
 │   ├── package.json
 ```
